@@ -6,7 +6,7 @@ let productos = [
         categoria: "Cilindros de Gas",
         precio: 6500,
         descripcion: "Cilindro de gas licuado de petróleo 5 kg. Para uso residencial (cocina, calefacción pequeña).",
-        imagen: "../imagenes/5kg.jpg"
+        imagen: "imagenes/5kg.jpg"
     },
     {
         id: 2,
@@ -15,7 +15,7 @@ let productos = [
         categoria: "Cilindros de Gas",
         precio: 12000,
         descripcion: "Cilindro estándar doméstico. El más utilizado en hogares chilenos. Compatible con reguladores estándar.",
-        imagen: "../imagenes/11kg.jpg"
+        imagen: "imagenes/11kg.jpg"
     },
     {
         id: 3,
@@ -24,7 +24,7 @@ let productos = [
         categoria: "Cilindros de Gas",
         precio: 16000,
         descripcion: "Cilindro de mayor capacidad para hogares de alto consumo o locales pequeños.",
-        imagen: "../imagenes/15kg.png"
+        imagen: "imagenes/15kg.png"
     },
     {
         id: 4,
@@ -33,7 +33,7 @@ let productos = [
         categoria: "Cilindros de Gas",
         precio: 45000,
         descripcion: "Cilindro industrial. Uso comercial: restaurantes, talleres, calefacción de locales.",
-        imagen: "../imagenes/45kg.png"
+        imagen: "imagenes/45kg.png"
     }
 ]
 let lista = document.getElementById("listaProductos");

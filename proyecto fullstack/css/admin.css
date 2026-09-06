@@ -1,0 +1,7 @@
+.inicio-section {
+      position: relative;
+      background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('https://picsum.photos/1200/500?grayscale') center/cover no-repeat;
+      padding: 60px 20px;
+      text-align: center;
+      color: white;
+    }
